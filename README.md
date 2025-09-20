@@ -40,8 +40,6 @@ Zyppr’s core is a **conversational AI** (Google Gemini) returning **strict JSO
 - **State:** React Context API (`AuthContext`, `BusinessContext`), mock persistence with `localStorage`.
 - **Buildless dev:** CDN modules via **importmap** in `index.html`.
 
-See **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)** for diagrams and flows.
-
 ---
 
 ## 🚀 Quickstart
