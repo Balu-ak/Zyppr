@@ -1,0 +1,5 @@
+{
+  "name": "Zyppr",
+  "description": "Zyppr is a multi-tenant, conversational AI operations assistant for Wellness & Fitness Studios. It helps admins manage services and bookings, and allows users to discover and book appointments through a unified, AI-driven interface.",
+  "requestFramePermissions": []
+}
