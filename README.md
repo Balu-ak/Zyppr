@@ -7,9 +7,6 @@ Zyppr is a multi-tenant, AI-powered platform for the Wellness & Fitness industry
 
 Zyppr’s core is a **conversational AI** (Google Gemini) returning **strict JSON** validated with **Zod**—so UI cards (Service, Appointment, Notifications) render from structured data, not free text.
 
-<p align="center">
-  <img src="docs/hero-screenshot.png" alt="Zyppr preview" width="800"/>
-</p>
 
 ---
 
